@@ -16,6 +16,7 @@ ToolDog
    how_to_use
    references
    hangouts
+   changelog
 
 ToolDog API Documentation
 =========================
