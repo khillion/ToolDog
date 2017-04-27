@@ -15,9 +15,11 @@ Currently the tool generates Galaxy XML or CWL directly from the bio.tools tool 
 
 |current_design|
 
-After discussing the design of the tool an idea for a new architecture has emerged. ToolDog will not simply be monodirectional, but instead would allow to go from any given tool descriptor to another one.
+After discussing the design of the tool an idea for a new architecture has emerged. ToolDog will not simply be monodirectional, but instead would allow to go from any given tool descriptor to another one as illustrated in the next figure.
 
 |proposed_design|
+
+Therefore, work is going to be first focused on both galaxyxml and cwlgen libraries to cover all different fields from corresponding tool descriptors. Then this libraries need to allow accurate import of existing files into the corresponding model. After that the new model for ToolDog can be built.
 
 .. |current_design| image:: _static/images/current_design.svg
     :alt: The UMl-like figure of the current design.
