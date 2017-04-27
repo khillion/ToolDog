@@ -15,6 +15,7 @@ ToolDog
    installation
    how_to_use
    references
+   hangouts
 
 ToolDog API Documentation
 =========================
