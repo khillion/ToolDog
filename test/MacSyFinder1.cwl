@@ -60,5 +60,5 @@ s:keywords: [edam:topic_0085]
 s:name: MacSyFinder
 s:programmingLanguage: [Python]
 s:publication:
-- {id: http://dx.doi.org/doi:10.1371/journal.pone.0110726}
+- {id: https://doi.org/doi:10.1371/journal.pone.0110726}
 s:url: https://github.com/gem-pasteur/macsyfinder

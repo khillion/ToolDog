@@ -49,6 +49,6 @@ s:url: https://github.com/PF2-pasteur-fr/SARTools
 s:programmingLanguage:
 - R
 s:publication:
-- id: http://dx.doi.org/10.1371/journal.pone.0157022
+- id: https://doi.org/10.1371/journal.pone.0157022
 $namespaces:
   s: http://schema.org/

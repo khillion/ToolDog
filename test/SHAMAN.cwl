@@ -43,6 +43,6 @@ s:url: http://shaman.c3bi.pasteur.fr/
 s:programmingLanguage:
 - R
 s:publication:
-- id: http://dx.doi.org/10.1073/pnas.1523899113
+- id: https://doi.org/10.1073/pnas.1523899113
 $namespaces:
   s: http://schema.org/
