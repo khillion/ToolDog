@@ -32,6 +32,6 @@ s:url: https://research.pasteur.fr/en/software/alientrimmer/
 s:programmingLanguage:
 - Java
 s:publication:
-- id: http://dx.doi.org/10.3389/fgene.2014.00130
+- id: https://doi.org/10.3389/fgene.2014.00130
 $namespaces:
   s: http://schema.org/

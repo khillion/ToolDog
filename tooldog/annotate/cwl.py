@@ -135,7 +135,7 @@ class CwlToolGen(object):
             self.tool.metadata.publication = []
         # Add citation depending the type (doi, pmid...)
         if publication.doi is not None:
-            self.tool.metadata.publication.append({'id': 'http://dx.doi.org/' + publication.doi})
+            self.tool.metadata.publication.append({'id': 'https://doi.org/' + publication.doi})
         # <citation> only supports doi and bibtex as a type
         elif publication.pmid is not None:
             LOGGER.warn('pmid is not supported by publication, publication skipped')

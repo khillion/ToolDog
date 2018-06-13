@@ -35,5 +35,5 @@ s:keywords: [edam:topic_0085, edam:topic_0798, edam:topic_3047, edam:topic_0091,
 s:name: Integron Finder
 s:programmingLanguage: [Python]
 s:publication:
-- {id: http://dx.doi.org/10.1093/nar/gkw319}
+- {id: https://doi.org/10.1093/nar/gkw319}
 s:url: https://github.com/gem-pasteur/Integron_Finder

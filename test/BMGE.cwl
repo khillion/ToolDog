@@ -33,6 +33,6 @@ s:url: https://research.pasteur.fr/en/software/bmge-block-mapping-and-gathering-
 s:programmingLanguage:
 - Java
 s:publication:
-- id: http://dx.doi.org/10.1186/1471-2148-10-210
+- id: https://doi.org/10.1186/1471-2148-10-210
 $namespaces:
   s: http://schema.org/

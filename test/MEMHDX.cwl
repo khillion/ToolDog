@@ -35,5 +35,5 @@ s:keywords: [edam:topic_3520]
 s:name: MEMHDX
 s:programmingLanguage: [R]
 s:publication:
-- {id: http://dx.doi.org/10.1093/bioinformatics/btw420}
+- {id: https://doi.org/10.1093/bioinformatics/btw420}
 s:url: http://memhdx.c3bi.pasteur.fr/
